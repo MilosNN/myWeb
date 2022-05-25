@@ -1,2 +1,0 @@
-# myWeb
-global sites
