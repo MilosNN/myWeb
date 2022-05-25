@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(28, 51, 250, 0.911);
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+div {
+    margin: 15px;
+    margin-left: 50px;
+}
+
+#zaposlen {
+     margin-right: 20px;
+}
+
+#tip-zap {
+    margin-right: 20px;
+}
+
+#tel {
+    margin-right: 20px;
+}
+
+#src {
+    margin-left: 200px;
+}
